@@ -1,2 +1,2 @@
-# devops-project4
-git,jenkins,maven,springboot,docker,ecr,kubernetes,Spinnaker as  continous delivery
+# devops-project
+Springboot application for CI/CD pipeline
